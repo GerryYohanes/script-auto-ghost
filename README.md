@@ -36,7 +36,7 @@ Versi terbaru dengan sistem **multibot farming** otomatis dan konfigurasi fleksi
 - Bot akan keluar world dan istirahat selama 90 detik _(dapat dikustom)_.
 
 🧥 **Auto Wear Clothes Saat Masuk World**  
-- Misal: :neutronpack: :neutrongun: _(dapat dikustom)_.
+- Misal: neutronpack neutrongun _(dapat dikustom)_.
 
 🧛 **Auto Vial / Grumbleteeth Mode**  
 - Jika diset `false`, bot akan otomatis menggunakan Grumbleteeth.
