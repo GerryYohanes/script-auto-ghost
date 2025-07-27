@@ -1,7 +1,7 @@
 
 # 👻 AUTO-GHOST MULTIBOT CONFIGURATION
 
-Versi terbaru dengan sistem **multibot farming** otomatis dan konfigurasi fleksibel untuk farming **Ghost in a Jar** :ghostjar:
+Versi terbaru dengan sistem **multibot farming** otomatis dan konfigurasi fleksibel untuk farming **Ghost in a Jar** 
 
 ---
 
